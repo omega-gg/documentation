@@ -1,4 +1,4 @@
-# documentation
+# Documentation
 
 - [MotionBox](MotionBox/README.md)
 - [MotionMonkey](MotionMonkey/README.md)
