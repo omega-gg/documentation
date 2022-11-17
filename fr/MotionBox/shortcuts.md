@@ -1,6 +1,6 @@
 # [MotionBox](README.md) - Raccourcis clavier
 
-## english / [français](../../MotionBox/shortcuts.md)
+## [english](../../MotionBox/shortcuts.md) / français
 
 # Global
 
