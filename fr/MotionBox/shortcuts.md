@@ -1,4 +1,4 @@
-# [MotionBox](README.md) - Raccourcis
+# [MotionBox](README.md) - Raccourcis clavier
 
 ## english / [français](../../MotionBox/shortcuts.md)
 
