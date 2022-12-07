@@ -4,4 +4,4 @@
 
 - [MotionBox](MotionBox/README.md) - Navigateur Vidéo
 - [MotionMonkey](MotionMonkey/README.md) - Lecteur Sémantique
-- [tevolution](tevolution/README.md) - Écran Vidéo Déporté
+- [tévolution](tevolution/README.md) - Écran Vidéo Déporté
