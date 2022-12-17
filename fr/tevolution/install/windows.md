@@ -1,6 +1,6 @@
 # [Installer tévolution sur un PC Windows](../README.md)
 
-## [english](../../tevolution/install/windows.md) / français
+## [english](../../../tevolution/install/windows.md) / français
 
 [![video](https://i.ytimg.com/vi/AqnPh7wQHGU/maxresdefault.jpg)](https://www.youtube.com/watch?v=AqnPh7wQHGU)
 
