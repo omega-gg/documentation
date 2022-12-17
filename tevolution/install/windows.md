@@ -2,7 +2,7 @@
 
 ## english / [français](../fr/tevolution/install/windows.md)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AqnPh7wQHGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![video](https://img.youtube.com/vi/AqnPh7wQHGU/maxresdefault.jpg)](https://www.youtube.com/watch?v=AqnPh7wQHGU)
 
 ## tevolution
 
