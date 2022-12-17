@@ -2,7 +2,7 @@
 
 ## english / [français](../fr/tevolution/install/windows.md)
 
-[![video](https://img.youtube.com/vi/AqnPh7wQHGU/maxresdefault.jpg)](https://www.youtube.com/watch?v=AqnPh7wQHGU)
+[![video](https://img.youtube.com/vi/AqnPh7wQHGU/0.jpg)](https://www.youtube.com/watch?v=AqnPh7wQHGU)
 
 ## tevolution
 
