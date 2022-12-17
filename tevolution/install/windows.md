@@ -11,7 +11,7 @@
 - Type "omega.gg" and press enter
 - Click on "tevolution"
 - Click on "Get tevolution"
-- Click on "download"
+- Click on "Download"
 - The Microsoft store will open
 - Click on "Install" then click on "Open"
 - Congratulation, tevolution should now be running on your desktop
@@ -19,9 +19,9 @@
 ## MotionMonkey
 
 - Grab your Android smartphone
-- Scan the VideoTag (video QR code)
+- Scan the VideoTag on tevolution (video QR code)
 - Click on the Monkey head
-- Click on "download"
+- Click on "Download"
 - Install MotionMonkey from the PlayStore
 - Open MotionMonkey
 - Click on the "camera" button
@@ -30,4 +30,5 @@
 - Congratulations, you are now ready to play videos
 
 ## Troubleshooting
+
 - Make sure tevolution and MotionMonkey are running on the same local network

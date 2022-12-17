@@ -9,3 +9,4 @@ OTHER_FILES += README.md \
                fr/MotionBox/shortcuts.md \
                fr/MotionMonkey/README.md \
                fr/tevolution/README.md \
+               fr/tevolution/install/windows.md \
