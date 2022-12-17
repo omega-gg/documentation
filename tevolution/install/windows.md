@@ -1,4 +1,4 @@
-# [Install tevolution on a Windows PC](README.md)
+# [Install tevolution on a Windows PC](../README.md)
 
 ## english / [français](../fr/tevolution/install/windows.md)
 

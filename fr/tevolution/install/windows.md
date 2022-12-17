@@ -1,4 +1,4 @@
-# [Installer tévolution sur un PC Windows](README.md)
+# [Installer tévolution sur un PC Windows](../README.md)
 
 ## [english](../../tevolution/install/windows.md) / français
 
