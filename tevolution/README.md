@@ -8,4 +8,4 @@ Internet and [Motion Freedom](https://omega.gg/about/MotionFreedom).
 
 ## Getting started
 
-- [Install tevolution on a Windows PC](install/windows)
+- [Install tevolution on a Windows PC](install/windows.md)
