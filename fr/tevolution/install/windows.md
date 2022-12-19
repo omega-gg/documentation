@@ -6,28 +6,30 @@
 
 ## tevolution
 
-- Ouvrez votre navigateur web
-- Ouvrez un nouvel onglet
-- Tapez "omega.gg/fr" and appuyez sur entrée
-- Cliquez sur "tévolution"
-- Cliquez sur "Télécharger tévolution"
-- Cliquez sur "Télécharger"
-- Le Microsoft Store va s'ouvrir
-- Cliquez sur "Install" puis cliquez sur "Open"
-- Bravo, tévolution devrait maintenant tourner sur votre bureau
+1. Ouvrez votre navigateur web
+2. Ouvrez un nouvel onglet
+3. Tapez "omega.gg/fr" and appuyez sur entrée
+4. Cliquez sur "tévolution"
+5. Cliquez sur "Télécharger tévolution"
+6. Cliquez sur "Télécharger"
+7. Le Microsoft Store va s'ouvrir
+8. Cliquez sur "Install" puis cliquez sur "Open"
+
+Bravo, tévolution devrait maintenant tourner sur votre bureau
 
 ## MotionMonkey
 
-- Prenez votre smartphone Android
-- Scannez le VidéoTag sur tévolution (QR code vidéo)
-- Cliquez sur la tête de singe
-- Cliquez sur "Télécharger"
-- Installez MotionMonkey à partir du PlayStore
-- Ouvrez MotionMonkey
-- Cliquez sur le bouton "appareil photo"
-- Scannez le VidéoTag sur tévolution (QR code vidéo)
-- L'arrière plan de tévolution devrait maintenant être en couleur
-- Bravo, vous êtes maintenant prêt à lire des vidéos
+1. Prenez votre smartphone Android
+2. Scannez le VidéoTag sur tévolution (QR code vidéo)
+3. Cliquez sur la tête de singe
+4. Cliquez sur "Télécharger"
+5. Installez MotionMonkey à partir du PlayStore
+6. Ouvrez MotionMonkey
+7. Cliquez sur le bouton "appareil photo"
+8. Scannez le VidéoTag sur tévolution (QR code vidéo)
+9. L'arrière plan de tévolution devrait maintenant être en couleur
+
+Bravo, vous êtes maintenant prêt à lire des vidéos
 
 ## Assistance
 

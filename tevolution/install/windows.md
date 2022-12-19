@@ -6,28 +6,30 @@
 
 ## tevolution
 
-- Open your web browser
-- Open a new tab
-- Type "omega.gg" and press enter
-- Click on "tevolution"
-- Click on "Get tevolution"
-- Click on "Download"
-- The Microsoft store will open
-- Click on "Install" then click on "Open"
-- Congratulation, tevolution should now be running on your desktop
+1. Open your web browser
+2. Open a new tab
+3. Type "omega.gg" and press enter
+4. Click on "tevolution"
+5. Click on "Get tevolution"
+6. Click on "Download"
+7. The Microsoft store will open
+8. Click on "Install" then click on "Open"
+
+Congratulation, tevolution should now be running on your desktop
 
 ## MotionMonkey
 
-- Grab your Android smartphone
-- Scan the VideoTag on tevolution (video QR code)
-- Click on the Monkey head
-- Click on "Download"
-- Install MotionMonkey from the PlayStore
-- Open MotionMonkey
-- Click on the "camera" button
-- Scan the tevolution VideoTag (video QR code)
-- tevolution background should turn into colors
-- Congratulations, you are now ready to play videos
+1. Grab your Android smartphone
+2. Scan the VideoTag on tevolution (video QR code)
+3. Click on the Monkey head
+4. Click on "Download"
+5. Install MotionMonkey from the PlayStore
+6. Open MotionMonkey
+7. Click on the "camera" button
+8. Scan the tevolution VideoTag (video QR code)
+9. tevolution background should turn into colors
+
+Congratulations, you are now ready to play videos
 
 ## Troubleshooting
 
