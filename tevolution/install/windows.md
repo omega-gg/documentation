@@ -15,7 +15,7 @@
 7. The Microsoft store will open
 8. Click on "Install" then click on "Open"
 
-Congratulation, tevolution should now be running on your desktop
+Congratulation, tevolution should now be running on your desktop.
 
 ## MotionMonkey
 
@@ -29,7 +29,7 @@ Congratulation, tevolution should now be running on your desktop
 8. Scan the tevolution VideoTag (video QR code)
 9. tevolution background should turn into colors
 
-Congratulations, you are now ready to play videos
+Congratulations, you are now ready to play videos.
 
 ## Troubleshooting
 

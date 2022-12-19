@@ -4,7 +4,7 @@
 
 [![video](https://i.ytimg.com/vi/AqnPh7wQHGU/maxresdefault.jpg)](https://www.youtube.com/watch?v=AqnPh7wQHGU)
 
-## tevolution
+## tévolution
 
 1. Ouvrez votre navigateur web
 2. Ouvrez un nouvel onglet
@@ -15,7 +15,7 @@
 7. Le Microsoft Store va s'ouvrir
 8. Cliquez sur "Install" puis cliquez sur "Open"
 
-Bravo, tévolution devrait maintenant tourner sur votre bureau
+Bravo, tévolution devrait maintenant tourner sur votre bureau.
 
 ## MotionMonkey
 
@@ -29,7 +29,7 @@ Bravo, tévolution devrait maintenant tourner sur votre bureau
 8. Scannez le VidéoTag sur tévolution (QR code vidéo)
 9. L'arrière plan de tévolution devrait maintenant être en couleur
 
-Bravo, vous êtes maintenant prêt à lire des vidéos
+Bravo, vous êtes maintenant prêt à lire des vidéos.
 
 ## Assistance
 
