@@ -37,7 +37,7 @@ Congratulation, tevolution should now be running on your desktop.
 
 Congratulations, you are now ready to play videos.
 
-## Add tevolution the Steam launcher.
+## Add tevolution the Steam launcher
 
 1. Run Steam in desktop mode
 2. In the "Library" tab click on "ADD A GAME"
