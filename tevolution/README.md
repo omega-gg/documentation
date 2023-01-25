@@ -9,3 +9,4 @@ Internet and [Motion Freedom](https://omega.gg/about/MotionFreedom).
 ## Getting started
 
 - [Install tevolution on a Windows PC](install/windows.md)
+- [Install tevolution on a Steam Deck](install/steamDeck.md)

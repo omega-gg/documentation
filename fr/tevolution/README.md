@@ -9,3 +9,4 @@ Pensé pour Internet et la [Liberté Médiatique](https://omega.gg/about/MotionF
 ## Démarrage rapide
 
 - [Installer tévolution sur un PC Windows](install/windows.md)
+- [Installer tévolution sur un Steam Deck](install/steamDeck.md)
