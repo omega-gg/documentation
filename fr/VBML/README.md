@@ -1,8 +1,6 @@
-# [VBML](../README.md) - Écran Vidéo Déporté
+# [VBML](../README.md) - [Video Backend Markup Language](https://github.com/omega-gg/VBML/blob/master/fr/README.md)
 
 ## [english](../../VBML/README.md) / français
-
-- [Dépot VBML officiel](https://github.com/omega-gg/VBML/blob/master/fr/README.md)
 
 ## Tutoriels
 
