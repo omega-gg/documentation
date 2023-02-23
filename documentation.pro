@@ -5,6 +5,7 @@ OTHER_FILES += README.md \
                tevolution/README.md \
                tevolution/install/windows.md \
                tevolution/install/steamDeck.md \
+               tevolution/install/androidTV.md \
                fr/README.md \
                fr/MotionBox/README.md \
                fr/MotionBox/shortcuts.md \
@@ -12,3 +13,4 @@ OTHER_FILES += README.md \
                fr/tevolution/README.md \
                fr/tevolution/install/windows.md \
                fr/tevolution/install/steamDeck.md \
+               fr/tevolution/install/androidTV.md \

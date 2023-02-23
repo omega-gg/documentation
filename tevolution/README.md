@@ -10,3 +10,4 @@ Internet and [Motion Freedom](https://omega.gg/about/MotionFreedom).
 
 - [Install tevolution on a Windows PC](install/windows.md)
 - [Install tevolution on a Steam Deck](install/steamDeck.md)
+- [Install tevolution on an Android TV](install/androidTV.md)

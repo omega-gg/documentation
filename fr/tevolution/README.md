@@ -10,3 +10,4 @@ Pensé pour Internet et la [Liberté Médiatique](https://omega.gg/about/MotionF
 
 - [Installer tévolution sur un PC Windows](install/windows.md)
 - [Installer tévolution sur un Steam Deck](install/steamDeck.md)
+- [Installer tévolution sur une Android TV](install/androidTV.md)
