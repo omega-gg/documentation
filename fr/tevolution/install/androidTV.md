@@ -7,7 +7,7 @@
 ## tévolution
 
 1. Installez tévolution à partir du PlayStore
-2. Naviguez vers l'onglet "tab"
+2. Naviguez vers l'onglet "Apps"
 3. Ouvrez tévolution
 
 Bravo, tévolution devrait maintenant tourner sur votre bureau.
