@@ -5,3 +5,4 @@
 ## Tutoriels
 
 - [Comment créer une playlist VBML](https://www.youtube.com/watch?v=LGPvdkTAhDQ)
+- [Comment intégrer un VideoTag dans une vidéo](https://www.youtube.com/watch?v=9z7gCEpMvc0)
