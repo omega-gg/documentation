@@ -4,3 +4,7 @@
 
 MotionMonkey is a [Semantic Player](https://omega.gg/about/SemanticPlayer), designed to stream
 Internet videos from text queries. It's built for the Internet and [Motion Freedom](https://omega.gg/about/MotionFreedom).
+
+## Getting started
+
+- [Install MotionMonkey on a Steam Deck](install/steamDeck.md)
