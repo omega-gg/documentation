@@ -2,6 +2,7 @@ OTHER_FILES += README.md \
                MotionBox/README.md \
                MotionBox/shortcuts.md \
                MotionMonkey/README.md \
+               MotionMonkey/install/steamDeck.md \
                tevolution/README.md \
                tevolution/install/windows.md \
                tevolution/install/steamDeck.md \
@@ -11,6 +12,7 @@ OTHER_FILES += README.md \
                fr/MotionBox/README.md \
                fr/MotionBox/shortcuts.md \
                fr/MotionMonkey/README.md \
+               fr/MotionMonkey/install/steamDeck.md \
                fr/tevolution/README.md \
                fr/tevolution/install/windows.md \
                fr/tevolution/install/steamDeck.md \
