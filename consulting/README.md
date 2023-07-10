@@ -14,7 +14,9 @@ practical experience on the field for more than 10 years.
 In the last few years, we've been revamping the most popular video player, used by millions: VLC
 media player. We're specialized in application production covering mainstream multimedia use cases
 all the way to the most advanced streaming technologies with applications like MotionMonkey or
-tevolution. We make it powerful and we make it beautiful: from the first line to the last pixel.
+tevolution. 
+
+We make it powerful and we make it beautiful: from the first line to the last pixel.
 
 ## We rely on state of the art technology
 
