@@ -18,9 +18,9 @@ tevolution. We make it powerful and we make it beautiful: from the first line to
 
 ## We rely on state of the art technology
 
-Sky kit is a comprehensive and open source application kit specifically built for high performance
-multimedia applications. It's based on the Qt framework and comes with an integrated VLC streaming
-engine.
+[Sky kit](https://omega.gg/Sky/sources) is a comprehensive and open source application kit
+specifically built for high performance multimedia applications. It's based on the Qt framework
+and comes with an integrated VLC streaming engine.
 
 It supports 5 platforms from a single C / C++ / QML codebase and provides dynamic UX / UI while
 adapting to the different hardware scenarios. It's a solid technical proposition that retains a
