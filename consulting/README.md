@@ -52,7 +52,7 @@ to publish for everyone.
 
 Supported marketplaces: Microsoft store, Apple App Store, Google Play, Steam, itch.io
 
-## Services offering
+## Our services offering
 
 ## Contact us
 
