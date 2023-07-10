@@ -23,8 +23,8 @@ specifically built for high performance multimedia applications. It's based on t
 and comes with an integrated VLC streaming engine.
 
 It supports 5 platforms from a single C / C++ / QML codebase and provides dynamic UX / UI while
-adapting to the different hardware and inputs. It's a solid technical proposition that retains a
-strong versatility.
+adapting to the different hardware and interactions. It's a solid technical proposition that
+retains a strong versatility.
 
 Given its multimedia parti pris it makes application production efficient while scaling beautifully
 on each platform. It produces native and multiplatform applications from a single codebase: there's
