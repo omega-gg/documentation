@@ -6,3 +6,4 @@
 - [MotionMonkey](MotionMonkey/README.md) - Semantic Player
 - [tevolution](tevolution/README.md) - Remote Video Screen
 - [VBML](VBML/README.md) - Video Backend Markup Language
+- [consulting](consulting/README.md) - omega consulting
