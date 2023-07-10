@@ -46,9 +46,9 @@ Supported platforms: Windows, macOS, Linux, iOS, Android, Apple TV, Android TV
 ## We publish your application on all major marketplaces
 
 Deploying is not enough, you need to reach the gates of the different marketplaces. That's not an
-easy task when it comes to streaming applications but we know our ways to succesful multimedia
-application publishing. When we deliver an application it will be published for testers and ready
-to publish for everyone.
+easy task when it comes to streaming applications but we know our ways to succesful application
+publishing. When we deliver an application it will be published for testers and ready to publish
+for everyone.
 
 Supported marketplaces: Microsoft store, Apple App Store, Google Play, Steam, itch.io
 
