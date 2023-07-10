@@ -52,6 +52,8 @@ to publish for everyone.
 
 Supported marketplaces: Microsoft store, Apple App Store, Google Play, Steam, itch.io
 
+## Services offering
+
 ## Contact us
 
 [contact@omega.gg](mailto:contact@omega.gg)
