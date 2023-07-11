@@ -50,11 +50,11 @@ deployment process through an Azure based continuous integration. We hold your h
 application runs on concrete hardware inside your very own hands.
 
 Supported platforms:
-- Windows
-- macOS
-- Linux
-- iOS and Apple TV
-- Android and Android TV
+- [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows)
+- [macOS](https://en.wikipedia.org/wiki/MacOS)
+- [Linux](https://en.wikipedia.org/wiki/Linux)
+- [iOS](https://en.wikipedia.org/wiki/IOS) and [Apple TV](https://en.wikipedia.org/wiki/Apple_TV)
+- [Android](https://en.wikipedia.org/wiki/Android) and [Android TV](https://en.wikipedia.org/wiki/Android_TV)
 
 ## We publish your application on all major marketplaces
 
@@ -64,11 +64,11 @@ publishing. When we deliver an application it will be published for testers and 
 for everyone.
 
 Supported marketplaces:
-- Microsoft store
-- App Store
-- Google Play
-- Steam (on a limited range of applications)
-- itch.io
+- [Microsoft store](https://apps.microsoft.com)
+- [App Store](https://www.apple.com/app-store)
+- [Google Play](https://play.google.com)
+- [Steam](https://store.steampowered.com) (on a limited range of applications)
+- [itch.io](https://itch.io)
 
 ## Our services
 
