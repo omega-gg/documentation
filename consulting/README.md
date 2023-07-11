@@ -32,7 +32,9 @@ Given its multimedia parti pris it makes application production efficient while 
 on each platform. It produces native and multiplatform applications from a single codebase: there's
 currently no equivalent to this in the multimedia field.
 
-Supported libraries: Qt5 and Qt6, libVLC 3.x and libVLC 4.x
+Supported libraries:
+- Qt5 and Qt6
+- libVLC 3.x and libVLC 4.x
 
 ## We deploy everywhere from a single codebase
 
@@ -41,7 +43,12 @@ targeting. We ensure that everything looks great no matter where it runs and aut
 deployment process through an Azure based continuous integration. We hold your hand until the
 application runs on concrete hardware inside your very own hands.
 
-Supported platforms: Windows, macOS, Linux, iOS, Android, Apple TV, Android TV
+Supported platforms:
+- Windows
+- macOS
+- Linux
+- iOS and Apple TV
+- Android and Android TV
 
 ## We publish your application on all major marketplaces
 
@@ -50,7 +57,12 @@ easy task when it comes to streaming applications but we know our ways to succes
 publishing. When we deliver an application it will be published for testers and ready to publish
 for everyone.
 
-Supported marketplaces: Microsoft store, Apple App Store, Google Play, Steam, itch.io
+Supported marketplaces:
+- Microsoft store
+- Apple App Store
+- Google Play
+- Steam (on a limited range of applications)
+- itch.io
 
 ## Our services offering
 
