@@ -79,6 +79,7 @@ Supported marketplaces:
 
 ## We work with fantastic partners
 
+Our current partners are the following:
 - VideoLAN: https://www.videolan.org
 - Videolabs: https://videolabs.io
 - FFmpeg: https://www.ffmpeg.org
@@ -86,6 +87,7 @@ Supported marketplaces:
 
 ## Software references
 
+We've contributed or built the following applications:
 - VLC media player: https://www.videolan.org
 - MotionMonkey: https://omega.gg/MotionMonkey
 - MotionBox: https://omega.gg/MotionBox
