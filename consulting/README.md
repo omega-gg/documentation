@@ -1,5 +1,4 @@
 <h1>omega consulting</h1>
----
 
 ## english / [français](../fr/consulting/README.md)
 
