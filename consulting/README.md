@@ -12,10 +12,10 @@ practical experience on the field for more than 10 years.
 
 ## We build powerful applications
 
-In the last few years, we've been revamping the most popular video player, used by millions: VLC
-media player. We're specialized in application production covering mainstream multimedia use cases
-all the way to the most advanced streaming technologies with applications like MotionMonkey or
-tevolution. 
+In the last few years, we've been revamping the most popular video player, used by millions: 
+[VLC media player](https://www.videolan.org). We're specialized in application production covering
+mainstream multimedia use cases all the way to the most advanced streaming technologies with
+applications like [MotionMonkey](https://omega.gg/MotionMonkey) or [tevolution](https://omega.gg/tevolution).
 
 We make it powerful and we make it beautiful: from the first line to the last pixel.
 
@@ -67,7 +67,9 @@ Supported marketplaces:
 - Steam (on a limited range of applications)
 - itch.io
 
-## Our services offering
+## Our services
+
+### 
 
 ## Contact us
 
