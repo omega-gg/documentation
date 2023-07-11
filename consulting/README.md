@@ -73,13 +73,13 @@ Supported marketplaces:
 
 ## Our services
 
-#### Bootstrap your brand new multimedia application
+### Bootstrap your brand new multimedia application
 
-#### Revamp your existing application with state of the art technology
+### Revamp your existing application with state of the art technology
 
-#### Clone and port your existing application to new platforms
+### Clone and port your existing application to new platforms
 
-#### Custom request for your multimedia application
+### Custom request for your multimedia application
 
 ## We work with fantastic partners
 
