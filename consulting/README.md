@@ -1,4 +1,4 @@
-<div style="font-size: 32px">omega consulting</div>
+<h1>omega consulting</h1>
 ---
 
 ## english / [français](../fr/consulting/README.md)
