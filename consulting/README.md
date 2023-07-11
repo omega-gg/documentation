@@ -6,8 +6,8 @@
 
 Our mission is to bootstrap your multimedia applications on all platforms.
 
-We achieve this through our state of the art application kit called Sky kit along with our
-practical experience on the field for more than 10 years.
+We achieve this through a state of the art application kit called Sky kit along with our practical
+experience on the field for more than 10 years.
 
 ## We build powerful applications
 
