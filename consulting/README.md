@@ -81,8 +81,8 @@ renderer. We're often able to deploy within days for testing on concrete hardwar
 push your signed application on the different marketplaces and get it ready for prime time.
 
 We want to ensure that you build your project on solid ground and put you in a position to iterate
-and improve on the existing codebase while retaining solid foundations during the entire lifecycle
-of the application. That approach is quite unique in our field.
+and improve the existing codebase while retaining solid foundations during the entire lifecycle of
+the application. That approach is quite unique in our field.
 
 ### Revamp your existing application with state of the art technology
 
