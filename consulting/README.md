@@ -1,4 +1,5 @@
-# omega consulting
+<a href="https://omega.gg/consulting"><img src="../dist/pictures/consulting.svg" alt="omega consulting" width="128px"></a>
+----
 
 ## english / [français](../fr/consulting/README.md)
 
