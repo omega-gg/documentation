@@ -1,4 +1,4 @@
-<a href="https://omega.gg/consulting"><img src="../dist/pictures/consulting.svg" alt="omega consulting" width="128px"></a>
+<a href="https://omega.gg/consulting"><img src="../dist/pictures/consulting.svg" alt="omega consulting" width="640px"></a>
 ----
 
 ## english / [français](../fr/consulting/README.md)
@@ -20,6 +20,8 @@ tevolution.
 We make it powerful and we make it beautiful: from the first line to the last pixel.
 
 ## We rely on state of the art technology
+
+<a href="https://omega.gg/Sky"><img src="../dist/pictures/Sky.png" alt="Sky kit" height="128px"></a>
 
 [Sky kit](https://omega.gg/Sky/sources) is a comprehensive and open source application kit
 specifically built for high performance multimedia applications. It's based on the Qt framework
