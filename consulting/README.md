@@ -1,4 +1,4 @@
-<a href="https://omega.gg/consulting"><img src="../dist/pictures/consulting.svg" alt="omega consulting" width="640px"></a>
+omega consulting
 ----
 
 ## english / [français](../fr/consulting/README.md)
@@ -23,7 +23,7 @@ We make it powerful and we make it beautiful: from the first line to the last pi
 
 <a href="https://omega.gg/Sky"><img src="../dist/pictures/Sky.svg" alt="Sky kit" height="128px"></a>
 
-[Sky kit](https://omega.gg/Sky/sources) is a comprehensive and open source application kit
+[Sky kit](https://omega.gg/Sky) is a comprehensive and open source application kit
 specifically built for high performance multimedia applications. It's based on the Qt framework
 and comes with an integrated VLC streaming engine.
 
