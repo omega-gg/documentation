@@ -12,6 +12,10 @@ practical experience on the field for more than 10 years.
 
 ## We build powerful applications
 
+<a href="https://omega.gg/Sky"><img src="../dist/pictures/VLC.jpg" alt="Sky kit" height="96px"></a>
+<a href="https://omega.gg/Sky"><img src="../dist/pictures/MotionMonkey.jpg" alt="Sky kit" height="96px"></a>
+<a href="https://omega.gg/Sky"><img src="../dist/pictures/MotionBox.png" alt="Sky kit" height="96px"></a>
+
 In the last few years, we've been revamping the most popular video player, used by millions: 
 [VLC media player](https://www.videolan.org). We're specialized in application production covering
 mainstream multimedia use cases all the way to the most advanced streaming technologies with
@@ -21,7 +25,6 @@ We make it powerful and we make it beautiful: from the first line to the last pi
 
 ## We rely on state of the art technology
 
-<a href="https://omega.gg/Sky"><img src="../dist/pictures/Sky.svg" alt="Sky kit" height="96px"></a>
 <a href="https://omega.gg/Sky"><img src="../dist/pictures/Sky.svg" alt="Sky kit" height="96px"></a>
 
 [Sky kit](https://omega.gg/Sky) is a comprehensive and open source application kit
