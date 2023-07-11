@@ -88,8 +88,8 @@ the application. That approach is quite unique in our field.
 
 You have an existing multimedia application that has become hard to maintain and dated in terms of
 UI / UX and you want to retain the existing codebase while transitioning to something new: we are
-here to help. We take the existing application and its implementation and port it with the Sky
-application kit based on the Qt framework and a state of the art libVLC video renderer. 
+here to help. We take the existing application and its implementation and port it to the Sky
+application kit based on the Qt framework and a state of the art libVLC video renderer.
 
 We'll work in tandem to rewrite and remaster your application while preserving functionalities and
 reaching new grounds in terms of performances and supported platforms. That's precisely what we did
@@ -99,12 +99,11 @@ for our revamping of the upcoming VLC 4.x on desktop.
 
 You have an existing multimedia application that works very well on a given platform and you would
 like to bring it to new platforms. Yet, given its current implementation you're not sure how to
-port the existing codebase and deploy it to these new grounds with different hardware and
-requirements in terms of UI / UX. 
+port the existing codebase and deploy it to these new grounds with their different hardware and
+UI / UX requirements.
 
-We'll clone and port your application while retaining the specific functionalities of your current
-application. That way you can explore new platforms while keeping your existing application for a
-specific hardware / platform scenario.
+We'll clone and port your application while retaining its specific functionalities. That way you
+can explore new platforms while keeping your existing application for a specific scenario.
 
 As a second step, you might consider moving everything on the same codebase. Effectively pushing
 your application on multiple platforms from a single codebase. This will give you a substantial
