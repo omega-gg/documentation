@@ -102,8 +102,8 @@ like to bring it to new platforms. Yet, given its current implementation you're 
 port the existing codebase and deploy it to these new grounds with their different hardware and
 UI / UX requirements.
 
-We'll clone and port your application while retaining its specific functionalities. That way you
-can explore new platforms while keeping your existing application for a specific scenario.
+We'll clone and port your application while retaining its specific functionalities and UI. That way
+you can explore new platforms while keeping your existing application for a specific scenario.
 
 As a second step, you might consider moving everything on the same codebase. Effectively pushing
 your application on multiple platforms from a single codebase. This will give you a substantial
