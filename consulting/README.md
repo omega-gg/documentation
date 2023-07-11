@@ -69,7 +69,21 @@ Supported marketplaces:
 
 ## Our services
 
-### 
+### Bootstrap your brand new multimedia application
+
+### Revamp your existing application with state of the art technology
+
+### Clone and port your existing application to new platforms
+
+### Custom request for your multimedia application
+
+## We work with fantastic partners
+
+Our current partners are the following:
+- VideoLAN: https://www.videolan.org
+- Videolabs: https://videolabs.io
+- FFmpeg: https://www.ffmpeg.org
+- Qt Group: https://www.qt.io
 
 ## Contact us
 
