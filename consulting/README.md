@@ -128,7 +128,7 @@ Our current partners are the following:
 
 ## Software references
 
-We've contributed on or built the following applications:
+We've contributed to or built the following applications:
 - VLC media player: https://www.videolan.org
 - MotionMonkey: https://omega.gg/MotionMonkey
 - MotionBox: https://omega.gg/MotionBox
