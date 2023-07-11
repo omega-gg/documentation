@@ -88,8 +88,8 @@ of the application. That approach is quite unique in our field.
 
 You have an existing multimedia application that has become hard to maintain and dated in terms of
 UI / UX and you want to retain the existing codebase while transitioning to something new: we are
-here to help you do that. We take the existing application and its implementation and port it with
-the Sky application kit based on the Qt framework and a state of the art libVLC video renderer. 
+here to help. We take the existing application and its implementation and port it with the Sky
+application kit based on the Qt framework and a state of the art libVLC video renderer. 
 
 We'll work in tandem to rewrite and remaster your application while preserving functionalities and
 reaching new grounds in terms of performances and supported platforms. That's precisely what we did
