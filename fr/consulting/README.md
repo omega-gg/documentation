@@ -11,9 +11,9 @@ experience on the field for more than 10 years.
 
 ## We build powerful applications
 
-<a href="https://omega.gg/screens/VLC.jpg"><img src="../dist/pictures/VLC.jpg" alt="VLC media player" height="96px"></a>
-<a href="https://omega.gg/screens/MotionMonkey.jpg"><img src="../dist/pictures/MotionMonkey.jpg" alt="MotionMonkey" height="96px"></a>
-<a href="https://omega.gg/screens/MotionBox.png"><img src="../dist/pictures/MotionBox.png" alt="MotionBox" height="96px"></a>
+<a href="https://omega.gg/screens/VLC.jpg"><img src="../../dist/pictures/VLC.jpg" alt="VLC media player" height="96px"></a>
+<a href="https://omega.gg/screens/MotionMonkey.jpg"><img src="../../dist/pictures/MotionMonkey.jpg" alt="MotionMonkey" height="96px"></a>
+<a href="https://omega.gg/screens/MotionBox.png"><img src="../../dist/pictures/MotionBox.png" alt="MotionBox" height="96px"></a>
 
 In the last few years, we've been revamping the most popular video player, used by millions: 
 [VLC media player](https://www.videolan.org). We're specialized in application production covering
@@ -24,7 +24,7 @@ We make it powerful and we make it beautiful: from the first line to the last pi
 
 ## We rely on state of the art technology
 
-<a href="https://omega.gg/Sky"><img src="../dist/pictures/Sky.svg" alt="Sky kit" height="96px"></a>
+<a href="https://omega.gg/Sky"><img src="../../dist/pictures/Sky.svg" alt="Sky kit" height="96px"></a>
 
 [Sky kit](https://omega.gg/Sky) is a comprehensive and open source application kit
 specifically built for high performance multimedia applications. It's based on the Qt framework
