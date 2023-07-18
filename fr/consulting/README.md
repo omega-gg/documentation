@@ -87,8 +87,8 @@ the application. That approach is quite unique in our field.
 ### Revamp your existing application with state of the art technology
 
 You have an existing multimedia application that has become hard to maintain and dated in terms of
-UI / UX and you want to retain the existing codebase while transitioning to something new: we are
-here to help. We take the existing application and its implementation and port it to the Sky
+UI / UX and you want to retain the existing functionalities while transitioning to something new:
+we are here to help. We take the existing application and its implementation and port it to the Sky
 application kit based on the Qt framework and a state of the art libVLC video renderer.
 
 We'll work in tandem to rewrite and remaster your application while preserving functionalities and
