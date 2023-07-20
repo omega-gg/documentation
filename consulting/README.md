@@ -11,7 +11,7 @@ experience on the field for more than 10 years.
 
 ## We build powerful applications
 
-<img src="../dist/pictures/VLC.jpg" alt="VLC media player" height="96px">
+<a href="../dist/pictures/VLC.jpg"><img src="../dist/pictures/VLC.jpg" alt="VLC media player" height="96px"></a>
 <a href="https://omega.gg/screens/MotionMonkey.jpg"><img src="../dist/pictures/MotionMonkey.jpg" alt="MotionMonkey" height="96px"></a>
 <a href="https://omega.gg/screens/MotionBox.png"><img src="../dist/pictures/MotionBox.png" alt="MotionBox" height="96px"></a>
 
