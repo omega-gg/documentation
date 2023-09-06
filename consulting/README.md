@@ -130,8 +130,8 @@ Our current partners are the following:
 
 We've contributed to or built the following applications:
 - VLC media player: https://www.videolan.org
-- MotionMonkey: https://omega.gg/MotionMonkey
 - MotionBox: https://omega.gg/MotionBox
+- MotionMonkey: https://omega.gg/MotionMonkey
 - tevolution: https://omega.gg/tevolution
 
 ## Contact us
