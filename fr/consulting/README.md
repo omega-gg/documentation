@@ -17,8 +17,8 @@ expérience pratique acquise sur le terrain depuis plus de 10 ans.
 
 Au cours des dernières années, nous avons participé au revamping du lecteur multimédia le plus
 utilisé au monde: [VLC media player](https://www.videolan.org). Nous sommes spécialisés dans la
-production d'applications couvrant les cas d'utilisation multimédia les plus courants jusqu'aux
-technologies de streaming les plus avancées avec des applications telles que [MotionMonkey](https://omega.gg/MotionMonkey/fr)
+production d'applications couvrant les cas d'utilisation multimédia courants jusqu'aux technologies
+de streaming les plus avancées avec des applications telles que [MotionMonkey](https://omega.gg/MotionMonkey/fr)
 ou [tevolution](https://omega.gg/tevolution/fr).
 
 Nous développons des applications natives, performantes et élégantes: de la première ligne de code
@@ -32,8 +32,8 @@ jusqu'au dernier pixel.
 conçu pour les applications multimédias hautes performances. Il est basé sur le framework Qt et
 intègre le moteur de streaming VLC.
 
-Il prend en charge 5 plateformes à partir d'une codebase unique en C / C++ / QML et offre une
-UI / UX dynamique tout en s'adaptant aux différents matériels et intéractions utilisateur. C'est
+Il prend en charge 5 plateformes à partir d'une codebase unique en C / C++ / QML offrant une
+UI / UX dynamique tout en s'adaptant aux différents matériels et interactions utilisateur. C'est
 une proposition technique solide qui garanti une grande polyvalence.
 
 En raison de son parti pris multimédia, elle rend la production d'applications efficace tout en
