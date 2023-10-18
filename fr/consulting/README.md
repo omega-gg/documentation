@@ -15,12 +15,11 @@ expérience pratique acquise sur le terrain depuis plus de 10 ans.
 <a href="../../dist/pictures/MotionMonkey.jpg"><img src="../../dist/pictures/MotionMonkey.jpg" alt="MotionMonkey" height="96px"></a>
 <a href="../../dist/pictures/MotionBox.png"><img src="../../dist/pictures/MotionBox.png" alt="MotionBox" height="96px"></a>
 
-Au cours des dernières années, nous avons participé au revamping du lecteur vidéo le plus populaire
-utilisé par des millions de personnes: [VLC media player](https://www.videolan.org).
-
-Nous sommes spécialisés dans la production d'applications couvrant les cas d'utilisation multimédia
-les plus courants jusqu'aux technologies de streaming les plus avancées avec des applications
-telles que [MotionMonkey](https://omega.gg/MotionMonkey/fr) ou [tevolution](https://omega.gg/tevolution/fr).
+Au cours des dernières années, nous avons participé au revamping du lecteur multimédia le plus
+utilisé au monde: [VLC media player](https://www.videolan.org). Nous sommes spécialisés dans la
+production d'applications couvrant les cas d'utilisation multimédia les plus courants jusqu'aux
+technologies de streaming les plus avancées avec des applications telles que [MotionMonkey](https://omega.gg/MotionMonkey/fr)
+ou [tevolution](https://omega.gg/tevolution/fr).
 
 Nous développons des applications natives, performantes et élégantes: de la première ligne de code
 jusqu'au dernier pixel.
