@@ -83,7 +83,7 @@ push your signed application on the different marketplaces and get it ready for 
 
 We want to ensure that you build your project on solid ground and put you in a position to iterate
 and improve the existing codebase while retaining solid foundations during the entire lifecycle of
-the application. That approach is quite unique in our field.
+the application. This approach is quite unique in our field.
 
 ### Revamp your existing application with state of the art technology
 

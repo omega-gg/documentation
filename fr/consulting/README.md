@@ -79,17 +79,17 @@ Store applicatifs supportés:
 
 ### Bootstraping de votre toute nouvelle application multimédia
 
-Nous commençons à partir de vos exigences et du concept de votre application multimédia. À partir
-de là, nous pouvons utiliser votre design existant ou fournir le nôtre et discuter de ce qui
-convient le mieux au projet. Ensuite, nous implémentons l'application sur des bases solides avec
-Sky kit, le framework applicatif Qt et notre moteur de rendu vidéo basé sur libVLC. Nous sommes
-souvent en mesure de déployer en quelques jours pour tester sur du matériel concret. Ensuite, nous
-mettons en ligne votre application signée sur les différents store applicatifs et la préparons pour
-sa sortie officielle.
+Nous partons de vos exigences et du concept de votre application multimédia. À partir de là, nous
+pouvons utiliser votre design existant ou fournir le nôtre et discuter de ce qui convient le mieux
+au projet. Ensuite, nous implémentons l'application sur des bases solides avec Sky kit, le
+framework applicatif Qt et notre moteur de rendu vidéo basé sur libVLC. Nous sommes souvent en
+mesure de déployer en quelques jours pour tester sur du matériel concret. Ensuite, nous mettons en
+ligne votre application signée sur les différents store applicatifs et la préparons pour sa sortie
+officielle.
 
 Nous nous assurons que vous développez votre projet sur des bases solides en vous permettant
-d'itérer et d'améliorer la codebase existante tout en conservant des fondations solides tout au
-long du cycle de vie de l'application. Cette approche singulière dans notre domaine.
+d'itérer et d'améliorer la codebase existante tout en conservant de solides fondations tout au long
+du cycle de vie de l'application. Cette approche est singulière dans notre domaine.
 
 ### Revamping de votre application existante avec notre technologie éprouvée
 
