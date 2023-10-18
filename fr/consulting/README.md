@@ -2,138 +2,151 @@
 
 ## [english](../../consulting/README.md) / français
 
-## Mission statement
+## Notre mission
 
-Our mission is to bootstrap your multimedia applications on all platforms.
+Notre mission est de propulser vos applications multimédias sur toutes les plateformes.
 
-We achieve this through a state of the art application kit called Sky kit along with our practical
-experience on the field for more than 10 years.
+Nous y parvenons au travers d'un kit applicatif avant-gardiste appelé Sky kit couplé à notre
+expérience pratique acquise sur le terrain depuis plus de 10 ans.
 
-## We build powerful applications
+## Nous développons des applications puissantes
 
 <a href="../../dist/pictures/VLC.jpg"><img src="../../dist/pictures/VLC.jpg" alt="VLC media player" height="96px"></a>
 <a href="../../dist/pictures/MotionMonkey.jpg"><img src="../../dist/pictures/MotionMonkey.jpg" alt="MotionMonkey" height="96px"></a>
 <a href="../../dist/pictures/MotionBox.png"><img src="../../dist/pictures/MotionBox.png" alt="MotionBox" height="96px"></a>
 
-In the last few years, we've been revamping the most popular video player, used by millions: 
-[VLC media player](https://www.videolan.org). We're specialized in application production covering
-mainstream multimedia use cases all the way to the most advanced streaming technologies with
-applications like [MotionMonkey](https://omega.gg/MotionMonkey) or [tevolution](https://omega.gg/tevolution).
+Au cours des dernières années, nous avons participé au revamping du lecteur vidéo le plus populaire
+utilisé par des millions de personnes: [VLC media player](https://www.videolan.org).
 
-We make it powerful and we make it beautiful: from the first line to the last pixel.
+Nous sommes spécialisés dans la production d'applications couvrant les cas d'utilisation multimédia
+les plus courants jusqu'aux technologies de streaming les plus avancées avec des applications
+telles que [MotionMonkey](https://omega.gg/MotionMonkey/fr) ou [tevolution](https://omega.gg/tevolution/fr).
 
-## We rely on state of the art technology
+Nous développons des applications natives, performantes et élégantes: de la première ligne de code
+jusqu'au dernier pixel.
+
+## Poussées par une technologie avant-gardiste
 
 <a href="https://omega.gg/Sky"><img src="../../dist/pictures/Sky.svg" alt="Sky kit" height="96px"></a>
 
-[Sky kit](https://omega.gg/Sky) is a comprehensive and open source application kit
-specifically built for high performance multimedia applications. It's based on the Qt framework
-and comes with an integrated VLC streaming engine.
+[Sky kit](https://omega.gg/Sky/fr) est un kit d'application complet et open source spécialement
+conçu pour les applications multimédias hautes performances. Il est basé sur le framework Qt et
+intègre le moteur de streaming VLC.
 
-It supports 5 platforms from a single C / C++ / QML codebase and provides dynamic UI / UX while
-adapting to the different hardware and input scenarios. It's a solid technical proposition that
-retains a strong versatility.
+Il prend en charge 5 plateformes à partir d'une codebase unique en C / C++ / QML et offre une
+UI / UX dynamique tout en s'adaptant aux différents matériels et intéractions utilisateur. C'est
+une proposition technique solide qui garanti une grande polyvalence.
 
-Given its multimedia parti pris it makes application production efficient while scaling beautifully
-on each platform. It produces native and multiplatform applications from a single codebase: there's
-currently no equivalent to this in the multimedia field.
+En raison de son parti pris multimédia, elle rend la production d'applications efficace tout en
+s'adaptant dynamiquement à chaque plateforme. Elle produit des applications natives et
+multiplateformes à partir d'une seule codebase: il n'existe pas d'équivalent à ce jour dans le
+domaine du multimédia.
 
-Supported libraries:
-- Qt5 and Qt6
-- libVLC 3.x and libVLC 4.x
+Librairies prises en charge:
+- Qt5 et Qt6
+- libVLC 3.x et libVLC 4.x
 
-## We deploy everywhere from a single codebase
+## Un déploiement applicatif à partir d'une seule codebase
 
-Application development is nothing if you can't succesfully deploy on each platform you're
-targeting. We ensure that everything looks great no matter where it runs and automate the
-deployment process through an Azure based continuous integration. We hold your hand until the
-application runs on concrete hardware inside your very own hands.
+Le développement applicatif n'est rien si vous ne pouvez pas déployer avec succès sur chaque
+plateforme que vous ciblez. Nous nous assurons que tout soit fonctionnel, peu importe où votre
+application s'execute et automatisons le processus de déploiement via une intégration continue
+basée sur Azure. Nous vous accompagnons jusqu'à ce que l'application fonctionne correctement sur
+des appareils concrets entre vos propres mains.
 
-Supported platforms:
-- [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows)
-- [macOS](https://en.wikipedia.org/wiki/MacOS)
-- [Linux](https://en.wikipedia.org/wiki/Linux)
-- [iOS](https://en.wikipedia.org/wiki/IOS) and [Apple TV](https://en.wikipedia.org/wiki/Apple_TV)
-- [Android](https://en.wikipedia.org/wiki/Android) and [Android TV](https://en.wikipedia.org/wiki/Android_TV)
+Plateformes supportées:
+- [Windows](https://fr.wikipedia.org/wiki/Microsoft_Windows)
+- [macOS](https://fr.wikipedia.org/wiki/MacOS)
+- [Linux](https://fr.wikipedia.org/wiki/Linux)
+- [iOS](https://fr.wikipedia.org/wiki/IOS) and [Apple TV](https://fr.wikipedia.org/wiki/Apple_TV_(appareil))
+- [Android](https://fr.wikipedia.org/wiki/Android) and [Android TV](https://fr.wikipedia.org/wiki/Android_TV)
 
-## We publish your application on all major marketplaces
+## Et une publication sur tous les marketplaces
 
-Deploying is not enough, you need to reach the gates of the different marketplaces. That's not an
-easy task when it comes to streaming applications but we know our ways to succesful application
-publishing. When we deliver an application it will be published for testers and ready to publish
-for everyone.
+Le déploiement ne suffit pas, il faut également atteindre les portes des différents stores
+applicatifs. Ce n'est pas trivial lorsqu'il s'agit d'applications de streaming, mais nous
+connaissons les bonnes approches pour une publication applicative réussie. Lorsque nous livrons une
+application, elle sera publiée pour les testeurs et prête à la publication pour les utilisateurs du
+monde entier.
 
-Supported marketplaces:
+Store applicatifs supportés:
 - [Microsoft store](https://apps.microsoft.com)
 - [App Store](https://www.apple.com/app-store)
 - [Google Play](https://play.google.com)
-- [Steam](https://store.steampowered.com) (on a limited range of applications)
+- [Steam](https://store.steampowered.com) (sur une sélection limitée d'applications)
 - [itch.io](https://itch.io)
 
-## Our services
+## Nos services
 
-### Bootstrap your brand new multimedia application
+### Bootstraping de votre toute nouvelle application multimédia
 
-We start from your requirements and concept for your multimedia application. From here we can take
-your existing design or provide our own and discuss what's best for the project. Then we implement
-the application on solid grounds with Sky kit, the Qt application framework and our libVLC video
-renderer. We're often able to deploy within days for testing on concrete hardware. Then we
-push your signed application on the different marketplaces and get it ready for prime time.
+Nous commençons à partir de vos exigences et du concept de votre application multimédia. À partir
+de là, nous pouvons utiliser votre design existant ou fournir le nôtre et discuter de ce qui
+convient le mieux au projet. Ensuite, nous implémentons l'application sur des bases solides avec
+Sky kit, le framework applicatif Qt et notre moteur de rendu vidéo basé sur libVLC. Nous sommes
+souvent en mesure de déployer en quelques jours pour tester sur du matériel concret. Ensuite, nous
+mettons en ligne votre application signée sur les différents store applicatifs et la préparons pour
+sa sortie officielle.
 
-We want to ensure that you build your project on solid ground and put you in a position to iterate
-and improve the existing codebase while retaining solid foundations during the entire lifecycle of
-the application. That approach is quite unique in our field.
+Nous nous assurons que vous développez votre projet sur des bases solides en vous permettant
+d'itérer et d'améliorer la codebase existante tout en conservant des fondations solides tout au
+long du cycle de vie de l'application. Cette approche singulière dans notre domaine.
 
-### Revamp your existing application with state of the art technology
+### Revamping de votre application existante avec notre technologie éprouvée
 
-You have an existing multimedia application that has become hard to maintain and dated in terms of
-UI / UX and you want to retain the existing functionalities while transitioning to something new:
-we are here to help. We take the existing application and its implementation and port it to the Sky
-application kit based on the Qt framework and a state of the art libVLC video renderer.
+Vous disposez d'une application multimédia existante qui est devenue difficile à maintenir et
+datée en termes d'UI / UX et vous souhaitez conserver les fonctionnalités actuelles tout en passant
+à quelque chose de nouveau: nous sommes là pour vous aider. Nous prenons votre application
+existante et son implémentation et la portons vers le kit applicatif Sky basé sur le framework Qt
+et notre moteur de rendu vidéo basé sur libVLC.
 
-We'll work in tandem to rewrite and remaster your application while preserving functionalities and
-reaching new grounds in terms of performances and supported platforms. That's precisely what we did
-for our revamping of the upcoming VLC 4.x on desktop.
+Nous travaillerons en tandem pour réécrire et améliorer votre application tout en préservant les
+fonctionnalités et en explorant de nouveaux horizons en termes de performances et plateformes
+supportées. C'est précisément ce que nous avons fait pour notre revamping de la future version de
+VLC 4.x sur ordinateur de bureau.
 
-### Clone and port your existing application to new platforms
+### Clonage et portage de votre application existante vers de nouvelles plateformes
 
-You have an existing multimedia application that works very well on a given platform and you would
-like to bring it to new platforms. Yet, given its current implementation you're not sure how to
-port the existing codebase and deploy it to these new grounds with their different hardware and
-UI / UX requirements.
+Vous disposez d'une application multimédia existante qui fonctionne très bien sur une plateforme
+donnée et vous souhaitez la porter sur de nouvelles plateformes. Cependant, en raison de son
+implémentation actuelle, vous n'êtes pas certain de la bonne approche pour porter la codebase
+existante et la déployer vers ces nouvelles platefromes tout en tenant compte des différents
+appareils et leurs exigences en terme d'UI / UX.
 
-We'll clone and port your application while retaining its specific functionalities. That way you
-can explore new platforms while keeping your existing application for a specific scenario.
+Nous clonons et portons votre application tout en préservant ses fonctionnalités spécifiques. De
+cette manière, vous pouvez explorer de nouvelles plateformes tout en conservant votre application
+existante pour un scénario particulier.
 
-As a second step, you might consider moving everything on the same codebase. Effectively pushing
-your application on multiple platforms from a single codebase. This will give you a substantial
-advantage in terms of efficiency and maintenability.
+Dans un second temps, vous pouvez envisager de tout regrouper sur la même codebase. Cela vous
+permet de déployer votre application sur plusieurs plateformes à partir d'une seule codebase. Ce
+qui vous donne un avantage substantiel en termes d'efficacité et de maintenabilité.
 
-### Custom request for your multimedia application
+### Requête personnalisée en fonction de vos besoins applicatifs multimédia
 
-Maybe you have a specific request for a multimedia application that requires a dedicated workflow.
-We're ready to discuss your project and potentially partner with the best players in our field like
-[Videolabs](https://videolabs.io) or [FFmpeg](https://www.ffmpeg.org) to provide taylor made
-adjustements on low level behaviors all the way to custom UI / UX for your specific needs.
+Peut-être avez-vous une demande spécifique pour une application multimédia qui nécessite un
+workflow dédié. Nous sommes prêts à discuter de votre projet et éventuellement collaborer avec les
+meilleurs acteurs de notre discipline tels que [Videolabs](https://videolabs.io) ou [FFmpeg](https://www.ffmpeg.org)
+pour fournir des ajustements allant du code bas niveau jusqu'aux enjeux UI / UX à en fonction de
+vos besoins spécifiques.
 
-Just contact us and let's have a chat about it.
+Vous pouvez nous contacter pour en discuter directement: [contact@omega.gg](mailto:contact@omega.gg)
 
-## We work with fantastic partners
+## Nous travaillons avec des partenaires fantastiques
 
-Our current partners are the following:
+Nos partenaires actuels sont les suivants:
 - VideoLAN: https://www.videolan.org
 - Videolabs: https://videolabs.io
 - FFmpeg: https://www.ffmpeg.org
 - Qt Group: https://www.qt.io
 
-## Software references
+## Références logicielles
 
-We've contributed to or built the following applications:
+Nous avons contribué ou conçu les applications suviantes:
 - VLC media player: https://www.videolan.org
-- MotionBox: https://omega.gg/MotionBox
-- MotionMonkey: https://omega.gg/MotionMonkey
-- tevolution: https://omega.gg/tevolution
+- MotionBox: https://omega.gg/MotionBox/fr
+- MotionMonkey: https://omega.gg/MotionMonkey/fr
+- tévolution: https://omega.gg/tevolution/fr
 
-## Contact us
+## Contactez nous
 
 [contact@omega.gg](mailto:contact@omega.gg)

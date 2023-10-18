@@ -15,12 +15,13 @@ experience on the field for more than 10 years.
 <a href="../dist/pictures/MotionMonkey.jpg"><img src="../dist/pictures/MotionMonkey.jpg" alt="MotionMonkey" height="96px"></a>
 <a href="../dist/pictures/MotionBox.png"><img src="../dist/pictures/MotionBox.png" alt="MotionBox" height="96px"></a>
 
-In the last few years, we've been revamping the most popular video player, used by millions: 
-[VLC media player](https://www.videolan.org). We're specialized in application production covering
-mainstream multimedia use cases all the way to the most advanced streaming technologies with
-applications like [MotionMonkey](https://omega.gg/MotionMonkey) or [tevolution](https://omega.gg/tevolution).
+In the last few years, we took part in the revamping of the most popular video player, used by
+millions: [VLC media player](https://www.videolan.org). We're specialized in application production
+covering mainstream multimedia use cases all the way to the most advanced streaming technologies
+with applications like [MotionMonkey](https://omega.gg/MotionMonkey) or [tevolution](https://omega.gg/tevolution).
 
-We make it powerful and we make it beautiful: from the first line to the last pixel.
+We build native, powerful and beautiful applications: from the first line of code to the last
+pixel.
 
 ## We rely on state of the art technology
 
@@ -31,10 +32,10 @@ specifically built for high performance multimedia applications. It's based on t
 and comes with an integrated VLC streaming engine.
 
 It supports 5 platforms from a single C / C++ / QML codebase and provides dynamic UI / UX while
-adapting to the different hardware and input scenarios. It's a solid technical proposition that
+adapting to the different hardware and user interactions. It's a solid technical proposition that
 retains a strong versatility.
 
-Given its multimedia parti pris it makes application production efficient while scaling beautifully
+Given its multimedia parti pris it makes application production efficient while scaling dynamically
 on each platform. It produces native and multiplatform applications from a single codebase: there's
 currently no equivalent to this in the multimedia field.
 
@@ -87,9 +88,9 @@ the application. That approach is quite unique in our field.
 ### Revamp your existing application with state of the art technology
 
 You have an existing multimedia application that has become hard to maintain and dated in terms of
-UI / UX and you want to retain the existing functionalities while transitioning to something new:
+UI / UX and you want to retain the current functionalities while transitioning to something new:
 we are here to help. We take the existing application and its implementation and port it to the Sky
-application kit based on the Qt framework and a state of the art libVLC video renderer.
+application kit based on the Qt framework and our libVLC video renderer.
 
 We'll work in tandem to rewrite and remaster your application while preserving functionalities and
 reaching new grounds in terms of performances and supported platforms. That's precisely what we did
@@ -116,7 +117,7 @@ We're ready to discuss your project and potentially partner with the best player
 [Videolabs](https://videolabs.io) or [FFmpeg](https://www.ffmpeg.org) to provide taylor made
 adjustements on low level behaviors all the way to custom UI / UX for your specific needs.
 
-Just contact us and let's have a chat about it.
+Just contact us and let's have a chat about it: [contact@omega.gg](mailto:contact@omega.gg)
 
 ## We work with fantastic partners
 
