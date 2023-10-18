@@ -28,18 +28,18 @@ jusqu'au dernier pixel.
 
 <a href="https://omega.gg/Sky"><img src="../../dist/pictures/Sky.svg" alt="Sky kit" height="96px"></a>
 
-[Sky kit](https://omega.gg/Sky/fr) est un kit d'application complet et open source spécialement
-conçu pour les applications multimédias hautes performances. Il est basé sur le framework Qt et
-intègre le moteur de streaming VLC.
+[Sky kit](https://omega.gg/Sky/fr) est un kit applicatif complet et open source spécialement conçu
+pour les applications multimédias hautes performances. Il est basé sur le framework Qt et intègre
+le moteur de streaming VLC.
 
 Il prend en charge 5 plateformes à partir d'une codebase unique en C / C++ / QML offrant une
 UI / UX dynamique tout en s'adaptant aux différents matériels et interactions utilisateur. C'est
 une proposition technique solide qui garanti une grande polyvalence.
 
-En raison de son parti pris multimédia, elle rend la production d'applications efficace tout en
-s'adaptant dynamiquement à chaque plateforme. Elle produit des applications natives et
-multiplateformes à partir d'une seule codebase: il n'existe pas d'équivalent à ce jour dans le
-domaine du multimédia.
+En raison de son parti pris multimédia, il rend la production applicative efficace tout en
+s'adaptant dynamiquement à chaque plateforme. Il produit des applications natives et
+multiplateformes à partir d'une seule codebase: il n'y a pas d'équivalent à ce jour dans le domaine
+du multimédia.
 
 Librairies prises en charge:
 - Qt5 et Qt6
