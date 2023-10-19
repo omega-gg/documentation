@@ -125,8 +125,8 @@ qui vous donne un avantage substantiel en termes d'efficacité et de maintenabil
 Peut-être avez-vous une demande spécifique pour une application multimédia qui nécessite un
 workflow dédié. Nous sommes prêts à discuter de votre projet et éventuellement collaborer avec les
 meilleurs acteurs de notre discipline tels que [Videolabs](https://videolabs.io) ou [FFmpeg](https://www.ffmpeg.org)
-pour fournir des ajustements allant du code bas niveau jusqu'aux enjeux UI / UX à en fonction de
-vos besoins spécifiques.
+pour fournir des ajustements allant du code bas niveau jusqu'aux enjeux UI / UX en fonction de vos
+besoins spécifiques.
 
 Vous pouvez nous contacter pour en discuter directement: [contact@omega.gg](mailto:contact@omega.gg)
 
