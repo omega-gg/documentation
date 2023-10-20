@@ -19,7 +19,7 @@ Au cours des dernières années, nous avons participé au revamping du lecteur m
 utilisé au monde: [VLC media player](https://www.videolan.org). Nous sommes spécialisés dans la
 production d'applications couvrant les cas d'utilisation multimédia courants jusqu'aux technologies
 de streaming les plus avancées avec des applications telles que [MotionMonkey](https://omega.gg/MotionMonkey/fr)
-ou [tevolution](https://omega.gg/tevolution/fr).
+ou [tévolution](https://omega.gg/tevolution/fr).
 
 Nous développons des applications natives, performantes et élégantes: de la première ligne de code
 jusqu'au dernier pixel.
